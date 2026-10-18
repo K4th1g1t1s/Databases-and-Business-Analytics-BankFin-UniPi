@@ -10,6 +10,8 @@
   1. Introduction to SQL.                         ⚠️ μέχρι 22/10
   2. Introduction to Relational Databases in SQL. ⚠️ μέχρι 22/10
   3. Introduction to SQL Server                   ⚠️ μέχρι 29/10
+* **18 Οκτωβρίου 2026**: Έγιναν ανάθεση 4o Assignments στο DataCamp 🚀.
+  4. Data Analysis in Excel.                      ⚠️ μέχρι 05/11
 
 
 ## 📚 Υλικό Μαθήματος
